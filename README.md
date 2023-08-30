@@ -1,4 +1,6 @@
 # TFG_Notes
+# ARTAL_GRACIA_SARA_799653_TFG
+This document contains the explanatory notes and appendices of the project carried out
 # DIARIO_TFG
 This diary contains explanations of the realization process of this TFG, including the problems that arised and their respective solutions.
 # PhysioNet_BBDD
